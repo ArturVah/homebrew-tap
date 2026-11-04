@@ -1,8 +1,8 @@
 class PushBro < Formula
   desc "Gym bro who lifts your code every time you git push"
   homepage "https://github.com/ArturVah/push-bro"
-  url "https://github.com/ArturVah/push-bro/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "72d1f862060c15fb6db14076cb8211500b5f4da7659ea2733780e2366e4b1b7e"
+  url "https://github.com/ArturVah/push-bro/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "f09a4692bf6c36251d97c578df3c97f549c42d5a5eac4d9e561ac4aa96ff58a1"
   license "MIT"
 
   depends_on :macos
