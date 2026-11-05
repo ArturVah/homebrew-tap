@@ -1,8 +1,8 @@
 class Gitceps < Formula
   desc "Gym bro who pushes your code to the cloud every time you git push"
   homepage "https://github.com/ArturVah/gitceps"
-  url "https://github.com/ArturVah/gitceps/archive/refs/tags/v0.5.2.tar.gz"
-  sha256 "b0d0a0f58f127d87ab42e351491bbef477d6bb76ead24a77dd0d7bb0e51218d0"
+  url "https://github.com/ArturVah/gitceps/releases/download/v0.5.2/gitceps-0.5.2.tar.gz"
+  sha256 "93cefe9ef77ccce944183007aed82d305406bdc3e8530980e2fd67811af7c40f"
   license "MIT"
 
   depends_on :macos
